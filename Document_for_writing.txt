@@ -1,0 +1,6 @@
+Design layout developed and typeset at your own discretion
+1. Home - index.html - Home pages
+2. Our Menus (drink_menu.html) - Which contains subsections - Drink menu, Shisha menu, Food Menu - made a typical page suitable for all sections, insert your information
+   When you go to the subsection of the menu, we see the menu itself (detals_menus.html)
+3. Blog menus - (blog.html) - Has a sample page for all subsections (detal_menu.html)
+4. Contact us - (contact.html) - contact pages
